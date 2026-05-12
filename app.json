@@ -1,24 +1,23 @@
 {
   "name": "RAVEN-MD",
   "description": "DIEG0123 WhatsApp Bot",
-  "logo": "https://h.uguu.se/GiYwplwC.jpg",
-  "keywords": ["whatsapp-bot"],
   "repository": "https://github.com/tecleo2",
-  "stack": "container",
+  "logo": "https://example.com/logo.png",
+  "keywords": ["node", "express", "heroku"],
   "env": {
-    "SESSION_ID": {
-      "description": "Must begin with 'DIEG0123'",
-      "required": true
+    "MY_ENV_VAR": {
+      "description": "A secret key"
     }
   },
   "formation": {
-    "worker": {
+    "web": {
       "quantity": 1,
-      "size": "eco"
+      "size": "basic"
     }
-  }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
 }
-
-
-
-
