@@ -82,7 +82,7 @@ Alternatively, set the `SESSION_ID` environment variable with your session strin
 
 ## Deployment Platforms 
 
-<p align="center">Deploy <strong>RAVEN-MD/strong> instantly on your preferred platform.</p>
+
 
 <div align="center">
   <table>
