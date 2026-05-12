@@ -1,31 +1,20 @@
 {
   "name": "RAVEN-MD",
-  "description": "DIEGO123 WhatsApp Bot",
-  "logo": "https://h.uguu.se/GiYWpWoC.jpg",
-  "keywords": [
-    "whatsapp-bot"
-  ],
-  "repository": "https://github.com/teccleo2-hubb/RAVEN-MD/tree/main",
+  "description": "DIEG0123 WhatsApp Bot",
+  "logo": "https://h.uguu.se/GiYwplwC.jpg",
+  "keywords": ["whatsapp-bot"],
+  "repository": "https://github.com/tecleo2",
   "stack": "container",
-  "addons": [
-    {
-      "plan": "heroku-postgresql"
-    }
-  ],
-  "scripts": {
-    "start": "node index.js"
-  },
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'DIEGO123:~'.",
-      "value": "",
+      "description": "Must begin with 'DIEG0123'",
       "required": true
     }
   },
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "basic"
+      "size": "eco"
     }
   }
 }
