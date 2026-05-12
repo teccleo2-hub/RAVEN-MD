@@ -1,11 +1,11 @@
 {
-  "name": "Adevos-X Bot",
+  "name": "RAVEN-MD",
   "description": "Adevos-X WhatsApp Bot",
   "logo": "https://h.uguu.se/GiYWpWoC.jpg",
   "keywords": [
     "whatsapp-bot"
   ],
-  "repository": "https://github.com/adevosxtech/adevosX-Bot",
+  "repository": "https://github.com/teccleo2-hubb/RAVEN-MD/tree/main",
   "stack": "container",
   "addons": [
     {
@@ -32,4 +32,4 @@
 
 
 
-Then uta edit uweke vitu zako
+
