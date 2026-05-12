@@ -80,3 +80,29 @@ Alternatively, set the `SESSION_ID` environment variable with your session strin
 
 **fleko** — `+254758301051`
 
+## Deployment Platforms 
+
+<p align="center">Deploy <strong>Adevos-X-Bot</strong> instantly on your preferred platform.</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/teccleo2-hub1/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
+      <td align="center"><a href="https://replit.com/github.com/teccleo2-hub1/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/adevosxtech/adevosX-Bot" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white"/></a></td>
+      <td align="center"><a href="https://railway.app/new/template?template=https://github.com/adevosxtech/adevosX-Bot" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://render.com/deploy?repo=https://github.com/adevosxtech/adevosX-Bot" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/></a></td>
+      <td align="center"><a href="https://app.netlify.com/start/deploy?repository=https://github.com/adevosxtech/adevosX-Bot" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://heroku.com/deploy?template=https://github.com/adevosxtech/adevosX-Bot/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
+      <td align="center"><a href="https://dashboard.katabump.com/auth/login#ce51a9" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white"/></a></td>
+    </tr>
+  </table>
+</div>
+
+---
