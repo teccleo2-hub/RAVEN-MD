@@ -1,6 +1,6 @@
 {
   "name": "RAVEN-MD",
-  "description": "Adevos-X WhatsApp Bot",
+  "description": "DIEGO123 WhatsApp Bot",
   "logo": "https://h.uguu.se/GiYWpWoC.jpg",
   "keywords": [
     "whatsapp-bot"
@@ -17,7 +17,7 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'ADEVOS-X:~'.",
+      "description": "Must begin with 'DIEGO123:~'.",
       "value": "",
       "required": true
     }
