@@ -1,13 +1,13 @@
-# cleo fleko
+# ࿐𝐈𝐓`𝐒 𒆜*𝘾𝙇𝙀𝙊 𝙁𝙇𝙀𝙆𝙊*𒆜
 
 **Version:** 1.0.0
-**Author:** fleko
+**Author:** 𝙁𝙇𝙀𝙆𝙊
 **Platform:** WhatsApp
 
 ---
 
 ## 📌 Overview
-**cleo fleko** is a modular, full-featured WhatsApp bot designed for scalable session management, robust error logging, and a smooth user experience.
+**𝘾𝙇𝙀𝙊 𝙁𝙇𝙀𝙆𝙊** is a modular, full-featured WhatsApp bot designed for scalable session management, robust error logging, and a smooth user experience.
 
 Built on a clean plugin-based architecture, it supports group management, media downloads, AI tools, sticker creation, and much more — all configurable through a simple prefix command system.
 
@@ -76,9 +76,9 @@ Alternatively, set the `SESSION_ID` environment variable with your session strin
 
 ---
 
-## 👤 Owner
+## 👤 Owner 𝙁𝙇𝙀𝙆𝙊
 
-**fleko** — `+254758301051`
+**𝘾𝙇𝙀𝙊** — `+254758301051`
 
 ## Deployment Platforms 
 
@@ -91,15 +91,15 @@ Alternatively, set the `SESSION_ID` environment variable with your session strin
       <td align="center"><a href="https://replit.com/github.com/teccleo2-hub1/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/adevosxtech/adevosX-Bot" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white"/></a></td>
-      <td align="center"><a href="https://railway.app/new/template?template=https://github.com/adevosxtech/adevosX-Bot" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white"/></a></td>
+      <td align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/teccleo2-hub1/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white"/></a></td>
+      <td align="center"><a href="https://railway.app/new/template?template=https://github.com/teccleo2-hub1/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://render.com/deploy?repo=https://github.com/adevosxtech/adevosX-Bot" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/></a></td>
-      <td align="center"><a href="https://app.netlify.com/start/deploy?repository=https://github.com/adevosxtech/adevosX-Bot" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a></td>
+      <td align="center"><a href="https://render.com/deploy?repo=https://github.com/teccleo2-hub1/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/></a></td>
+      <td align="center"><a href="https://app.netlify.com/start/deploy?repository=https://github.com/teccleo2-hub1/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://heroku.com/deploy?template=https://github.com/adevosxtech/adevosX-Bot/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
+      <td align="center"><a href="https://heroku.com/deploy?template=https://github.com/teccleo2-hub1/RAVEN-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
       <td align="center"><a href="https://dashboard.katabump.com/auth/login#ce51a9" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white"/></a></td>
     </tr>
   </table>
