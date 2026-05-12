@@ -1,4 +1,4 @@
-# ࿐𝐈𝐓`𝐒 𒆜*𝘾𝙇𝙀𝙊 𝙁𝙇𝙀𝙆𝙊*𒆜
+# cleo
 
 **Version:** 1.0.0
 **Author:** 𝙁𝙇𝙀𝙆𝙊
@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Overview
-**𝘾𝙇𝙀𝙊 𝙁𝙇𝙀𝙆𝙊** is a modular, full-featured WhatsApp bot designed for scalable session management, robust error logging, and a smooth user experience.
+**cleo fleko** is a modular, full-featured WhatsApp bot designed for scalable session management, robust error logging, and a smooth user experience.
 
 Built on a clean plugin-based architecture, it supports group management, media downloads, AI tools, sticker creation, and much more — all configurable through a simple prefix command system.
 
