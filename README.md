@@ -1,13 +1,13 @@
-# L҈O҈R҈D҈  T҈H҈U҈N҈D҈E҈R҈ 𝗫𝗠𝗗
+# cleo fleko
 
 **Version:** 1.0.0
-**Author:** THUNDER
+**Author:** fleko
 **Platform:** WhatsApp
 
 ---
 
 ## 📌 Overview
-**Hanson XMD** is a modular, full-featured WhatsApp bot designed for scalable session management, robust error logging, and a smooth user experience.
+**cleo fleko** is a modular, full-featured WhatsApp bot designed for scalable session management, robust error logging, and a smooth user experience.
 
 Built on a clean plugin-based architecture, it supports group management, media downloads, AI tools, sticker creation, and much more — all configurable through a simple prefix command system.
 
@@ -78,5 +78,5 @@ Alternatively, set the `SESSION_ID` environment variable with your session strin
 
 ## 👤 Owner
 
-**THUNDER** — `+254103492255`
+**fleko** — `+254758301051`
 
