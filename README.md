@@ -80,7 +80,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## License
 
-[MIT License](https://github.com/teccleo2-hub/RAVEN-MD/blob/main/LICENSE)
+[GNU General Public License v3.0](https://github.com/teccleo2-hub/RAVEN-MD/blob/main/LICENSE)
 
 Copyright (c) 2026 RAVEN-MD
 
