@@ -59,11 +59,10 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ###  ` Deploy to Heroku`
 <p align="center">
-     <a href="https://session-trashcore.vercel.app">
-       <img src="https://heroku.com/deploy?template=https://github.com/teccleo2-hub1/RAVEN-MD"/>
+       <img src="https://heroku.com/deploy?template=https://github.com/teccleo2-hubb/RAVEN-MD"/>
      </a>
  </p>
-<td align="center"><a href="https://replit.com/github.com/teccleo2-hub/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=green"/></a></td>
+<td align="center"><a href="https://replit.com/github.com/teccleo2-hubb/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=green"/></a></td>
     </tr>
     <tr> 
 
