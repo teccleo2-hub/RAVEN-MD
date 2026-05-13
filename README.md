@@ -59,7 +59,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ###  ` Deploy to Heroku`
 <p align="center">
-     <a href="https://verify-me-umber.vercel.app/">
+     <a href="https://session-trashcore.vercel.app">
        <img src="https://heroku.com/deploy?template=https://github.com/teccleo2-hub1/RAVEN-MD"/>
      </a>
  </p>
