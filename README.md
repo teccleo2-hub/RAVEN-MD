@@ -60,7 +60,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 ###  ` Deploy to Heroku`
 <p align="center">
      <a href="https://verify-me-umber.vercel.app/">
-       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
+       <img src="https://heroku.com/deploy?template=https://github.com/teccleo2-hub1/RAVEN-MD"/>
      </a>
  </p>
 <td align="center"><a href="https://replit.com/github.com/teccleo2-hub/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=green"/></a></td>
