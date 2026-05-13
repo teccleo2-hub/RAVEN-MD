@@ -82,6 +82,6 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 [MIT License](https://github.com/teccleo2-hub/RAVEN-MD/blob/main/LICENSE)
 
-Copyright (c) 2025 RAVEN-MD
+Copyright (c) 2026 RAVEN-MD
 
 
