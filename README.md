@@ -63,7 +63,9 @@ Our AI features use random APIs to run, so sometimes they may be down.
        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
      </a>
  </p>
- 
+<td align="center"><a href="https://replit.com/github.com/adevosxtech/adevosX-Bot" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/></a></td>
+    </tr>
+    <tr> 
 
     
 
