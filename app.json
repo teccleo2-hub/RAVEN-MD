@@ -1,47 +1,58 @@
 {
-    "name": "RAVEN-MD",
-    "description": "WhatsApp bot multi-device",
-    "repository": "https://github.com/teccleo2-hub1/RAVEN-MD",
-    "logo": "https://avatars.githubusercontent.com/u/151794313?v=4",
-    "keywords": ["whatsapp", "bot", "md"],
-    "success_url": "/",
-    "stack": "heroku-24",
-    "env": {
-        "SESSION_ID": {
-            "description": "Put your session ID here. Leave blank to scan QR on deploy.",
-            "value": "",
-            "required": false
-        },
-        "PREFIX": {
-            "description": "Bot command prefix. Use '.' or '!' or '#'.",
-            "value": ".",
-            "required": true
-        },
-        "OWNER_NUMBER": {
-            "description": "Your WhatsApp number with country code (no '+' or spaces). Example: 254758301051",
-            "value": "",
-            "required": true
-        },
-        "HEROKU_API_KEY": {
-            "description": "Your Heroku account API key (for auto-updates).",
-            "value": "",
-            "required": false
-        },
-        "HEROKU_APP_NAME": {
-            "description": "Your Heroku app name (for auto-updates).",
-            "value": "",
-            "required": false
-        }
+  "name": "RAVEN-BOT",
+  "description": "A simple yet complicated WhatsApp bot, ♤Enjoy♡",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "raven",
+    "whatsapp-stickers",
+    "anime",
+    "whatsapp-bot",
+    "whatsapp-sticker-bot",
+    "whatsapp-botto",
+    "baileys",
+    "baileys-md",
+    "md-bot"
+  ],
+  "website": "https://github.com/teccleo2-hub1/RAVEN-MD",
+  "logo": "https://files.catbox.moe/duv8ac.jpg",
+  "success_url": "/",
+  "env": {
+    "DEV": {
+      "description": "Enter the Bot number here without + or spaces \",\" Ex: 254114660061,254780147229",
+      "required": true
     },
-    "buildpacks": [
-        {
-            "url": "heroku/nodejs"
-        }
-    ],
-    "formation": {
-        "web": {
-            "quantity": 1,
-            "size": "eco"
-        }
+    "HEROKU_API": {
+      "description": "Put a Heroku account Api key here, will be required to update your bot without redeploying again",
+      "required": false
+    },
+    "CODE": {
+      "description": "Country code without +, used for antiforeign feature (e.g., 254)",
+      "value": "254",
+      "required": true
+    },
+    "SESSION": {
+      "description": "Paste your Session ID after pairing the bot (required for authentication)",
+      "required": true
+    },
+    "APP_NAME": {
+      "description": "repeat the appname you entered above, use lowercase letters",
+      "required": true
     }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-activestorage-preview"
+    }
+  ],
+  "addons": [
+    "heroku-postgresql"
+  ]
 }
+
