@@ -1,7 +1,7 @@
 module.exports = {
   // ===== Bot Identity =====
   BOT_NAME: "RAVEN MD",
-  VERSION: "3.0.0",
+  VERSION: "1.0.0",
 
   // ===== Core Settings =====
   PREFIX: ".",
