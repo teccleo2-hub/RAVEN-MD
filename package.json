@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  },
   "dependencies": {
     "@ostyado/baileys": "^1.1.9",
     "api-dylux": "^1.8.5",
@@ -21,6 +25,5 @@
     "pino": "^8.17.0",
     "webp-converter": "latest",
     "yt-search": "^2.10.4"
-  "worker": "node index.js"
   }
 }
