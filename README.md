@@ -53,7 +53,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
   
 ## ` Pair code`
 <p align="centre">
-<a href="https://e5a7c516-82ff-4a6e-a51f-5c9492171543-00-2zjw4qqxgtt94.spock.replit.dev/"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
+<a href="https://27af8f8e-be98-478f-9ebd-a1c6121786e0-00-1ywqi8uoav30j.janeway.replit.dev"Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
             
 
