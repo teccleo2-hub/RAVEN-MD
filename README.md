@@ -1,97 +1,87 @@
-# cleo
-
-**Version:** 1.0.0
-**Author:** 𝙁𝙇𝙀𝙆𝙊
-**Platform:** WhatsApp
-
----
-
-## 📌 Overview
-**cleo fleko** is a modular, full-featured WhatsApp bot designed for scalable session management, robust error logging, and a smooth user experience.
-
-Built on a clean plugin-based architecture, it supports group management, media downloads, AI tools, sticker creation, and much more — all configurable through a simple prefix command system.
-
-
-
----
-
-## 🚀 Features
-- 🔗 **SQLite database** — lightweight and efficient session & settings management
-- 🔌 **Plugin system** — drop-in commands organised by category
-- 👑 **Admin controls** — owner-only commands for full bot management
-- 📥 **Downloader tools** — TikTok, YouTube, Facebook, Pinterest & more
-- 🛠️ **AI tools** — Copilot, LLaMA, Venice AI, OCR
-- 👥 **Group management** — promote, demote, kick, tagall, hidetag & more
-- 🛡️ **AntiDelete** — logs deleted messages automatically
-- 🔄 **Auto-reconnect** — no disconnection errors / antilogout
-
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/lordeagle-tech/hanson.git
-cd hanson
-npm install
-node index.js
-```
-
----
-
-## ⚙️ Configuration
-
-Edit `config.js` to customise:
-
-| Field | Description |
-|-------|-------------|
-| `BOT_NAME` | Display name of the bot |
-| `VERSION` | Bot version string |
-| `PREFIX` | Command prefix (default `.`) |
-| `OWNER_NAME` | Owner's display name |
-| `OWNER` | Owner phone number(s) — no `+` or spaces |
-| `PACK_NAME` | Sticker pack name |
-| `AUTHOR` | Sticker author name |
-| `CHANNEL` | WhatsApp channel link |
-| `SESSION_ID` | Session string (or set via env variable) |
-
----
-
-## 🔑 Pairing / Session
-
-On first run, enter your WhatsApp number when prompted. A pairing code will appear — enter it on your phone under **Settings → Linked Devices → Link with phone number**.
-
-Alternatively, set the `SESSION_ID` environment variable with your session string (`trashcore~BASE64DATA`) to skip pairing on restart.
-
----
-
-## 📋 Commands
-
-| Category | Commands |
-|----------|----------|
-| 👑 Admin | `.fullpp` `.mode` `.owner` `.setbio` `.setprefix` `.status` `.statusview` |
-| 📥 Downloads | `.play` `.video` `.tiktok` `.facebook` `.pinterest` `.yts` |
-| 👥 Group | `.promote` `.demote` `.kick` `.tagall` `.hidetag` `.linkgc` |
-| 🛠️ Tools | `.sticker` `.ocr` `.copilot` `.llama` `.venice` |
-| ⚙️ Utility | `.menu` `.ping` |
-
----
-
-# RAVEN-MD
-### **CLEO**
-**+254758301051**
-
-### Deployment Platforms
-<p align="center">Deploy <strong>RAVEN-MD</strong> instantly on your preferred platform.</p>
-
+# 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/teccleo2-hub1/RAVEN-MD" target="_blank">
-          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-```
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HOLLA+THIS+IS+RAVEN-BOT;MULTI+DEVICE+WHATSAPP+BOT;MADE+TO+HELP+WHATSAPP+USERS;STAR+AND+FORK+THE+REPO" alt="Typing SVG" />
+  </a>
+</p>
+  
+<p align="center">
+
+[![Nick Hunter](https://github.com/HunterNick2.png?lenght=50width=50)](https://github.com/HunterNick2)
+</p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAVEN+WHATSAPP+BOT" alt="">
+</p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗡𝗶𝗰𝗸_𝗛𝘂𝗻𝘁𝗲𝗿-blue.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/HunterNick2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
+<a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HunterNick2/RAVEN-BOT?&style=social"></a>
+<a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
+<a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
+</p>
+ 
+
+## ` Contact me`
+
+<p align="center">
+
+<a href="https://api.whatsapp.com/send?phone=254114660061&text=Hello+Raven+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
+
+
+## DISCLAIMER
+- Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting.
+
+- Do not delete the credits given,  you can add yourself instead.
+
+## FEATURES
+This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
+
+Our AI features use random APIs to run, so sometimes they may be down.
+
+ SET-UP
+
+## ` Fork this repo`
+<p align="centre">
+<a href="https://github.com/HunterNick2/RAVEN-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
+<p/>
+
+  
+## ` Pair onrender`
+<p align="centre">
+<a href="https://pairing-raven.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
+<p/>
+            
+
+###  ` Deploy to Heroku`
+<p align="center">
+     <a href="https://verify-me-umber.vercel.app/">
+       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
+     </a>
+ </p>
+ 
+
+    
+
+- Fill in the required variables into your hosting site for bot to work.
+ </h2>
+     
+
+    
+ 
+
+
+
+
+
+## License
+
+[MIT License](https://github.com/HunterNick2/RAVEN-BOT/blob/main/LICENSE)
+
+Copyright (c) 2025 RAVEN-BOT 
+
+
