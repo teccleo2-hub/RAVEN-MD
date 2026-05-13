@@ -51,7 +51,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 <p/>
 
   
-## ` Pair onrender`
+## ` Pair code`
 <p align="centre">
 <a href="https://pairing-raven.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
