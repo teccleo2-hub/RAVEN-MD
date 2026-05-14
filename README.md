@@ -56,11 +56,9 @@ Our AI features use random APIs to run, so sometimes they may be down.
 <a href="https://27af8f8e-be98-478f-9ebd-a1c6121786e0-00-1ywqi8uoav30j.janeway.replit.dev"Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
             
+## Deploy to Heroku
 
-###  ` Deploy to Heroku`
-<p align="center">
-       <img src="https://heroku.com/deploy?template=https://github.com/teccleo2-hubb/RAVEN-MD"/>
-     </a>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teccleo2-hub/RAVEN-MD)
  </p>
 <td align="center"><a href="https://replit.com/github.com/teccleo2-hubb/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=green"/></a></td>
     </tr>
