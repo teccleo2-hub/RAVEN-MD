@@ -3,12 +3,12 @@
   "version": "5.0.0",
   "main": "index.js",
   "type": "commonjs",
-  "scripts": {
-    "start": "node index.js"
-  },
   "engines": {
     "node": ">=20.0.0",
     "npm": ">=10.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
   },
   "dependencies": {
     "@ostyado/baileys": "^1.1.9",
