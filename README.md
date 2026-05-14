@@ -53,7 +53,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
   
 ## ` Pair code`
 <p align="centre">
-<a href="https://27af8f8e-be98-478f-9ebd-a1c6121786e0-00-1ywqi8uoav30j.janeway.replit.dev"Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
+<a href="https://3000-iwlfxqevoy7765udna655-e4b61369.us1.manus.computer"></a>
 <p/>
             
 ## Deploy to Heroku
