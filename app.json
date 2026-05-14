@@ -1,6 +1,46 @@
-"formation": {
-    "worker": {
-        "quantity": 1,
-        "size": "eco"
+{
+  "name": "RAVEN-MD",
+  "description": "RAVEN MD WhatsApp Multi-Device Bot",
+  "repository": "https://github.com/teccleo2-hub1/RAVEN-MD",
+  "logo": "https://avatars.githubusercontent.com/u/151794313?v=4",
+  "keywords": ["whatsapp", "bot", "md", "raven"],
+  "stack": "heroku-24",
+  "env": {
+    "SESSION_ID": {
+      "description": "Your session ID prefixed with 'trashcore~'. Leave blank to pair via console.",
+      "value": "",
+      "required": false
+    },
+    "PREFIX": {
+      "description": "Bot command prefix. Example: . or ! or #",
+      "value": ".",
+      "required": true
+    },
+    "OWNER_NUMBER": {
+      "description": "Your WhatsApp number with country code, no + or spaces. Example: 254758301051",
+      "value": "",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Your Heroku API key (found in Account Settings). Used for auto-restart.",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Your Heroku app name (used for auto-restart).",
+      "value": "",
+      "required": false
     }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
 }
