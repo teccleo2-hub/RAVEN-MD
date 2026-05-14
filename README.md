@@ -1,15 +1,4 @@
-<p align="center">
-  <a href="https://3c79931f-9fd5-42fb-b976-d803959bb698-00-2nzcc2v91n8wk.worf.replit.dev" style="text-decoration: none; font-size: 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px 30px; border-radius: 50px; color: white; font-weight: bold; display: inline-block; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    🎵 Click Here to Listen 🎶
-  </a>
-</p>
-
-<style>
-  a:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.3);
-  }
-</style># 𝗥𝗔𝗩𝗘𝗡-𝙈𝘿
+# 𝗥𝗔𝗩𝗘𝗡-𝙈𝘿
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HOLLA+THIS+IS+RAVEN-BOT;MULTI+DEVICE+WHATSAPP+BOT;MADE+TO+HELP+WHATSAPP+USERS;STAR+AND+FORK+THE+REPO" alt="Typing SVG" />
