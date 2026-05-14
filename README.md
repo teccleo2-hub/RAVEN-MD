@@ -55,7 +55,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 <p align="centre">
 <a href="https://3000-iwlfxqevoy7765udna655-e4b61369.us1.manus.computer"></a>
 <p/>
-            
+<a href="https://3000-iwlfxqevoy7765udna655-e4b61369.us1.manus.computer">Click here to access Pair Code</a>            
 ## Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teccleo2-hub/RAVEN-MD)
