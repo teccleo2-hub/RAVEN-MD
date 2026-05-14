@@ -50,7 +50,23 @@ Our AI features use random APIs to run, so sometimes they may be down.
 <a href="https://github.com/teccleo2-hub/RAVEN-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-MD" width="160"></a>
 <p/>
 
+<div class="pairing-section">
+  <h2>🎧 Pairing Music</h2>
   
+  <!-- Music Player -->
+  <audio controls autoplay loop>
+    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+  </audio>
+  
+  <!-- Pair Link -->
+  <p>
+    <a href="https://3000-iwlfxqevoy7765udna655-e4b61369.us1.manus.computer" 
+       target="_blank" 
+       rel="noopener noreferrer">
+      🔗 Click here to access Pair Code
+    </a>
+  </p>
+</div>  
 ## ` Pair code`
 <p align="centre">
 <a href="https://3000-iwlfxqevoy7765udna655-e4b61369.us1.manus.computer"></a>
