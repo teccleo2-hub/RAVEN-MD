@@ -1,40 +1,6 @@
-{
-  "name": "RAVEN-MD",
-  "description": "A modular WhatsApp bot built with Baileys — supports stickers, AI, media downloads, group management, and more.",
-  "keywords": [
-    "whatsapp",
-    "bot",
-    "raven-md",
-    "baileys",
-    "whatsapp-bot",
-    "md-bot",
-    "whatsapp-sticker-bot"
-  ],
-  "website": "https://github.com/teccleo2-hub1/RAVEN-MD",
-  "logo": "https://files.catbox.moe/duv8ac.jpg",
-  "repository": "https://github.com/teccleo2-hub1/RAVEN-MD",
-  "env": {
-    "SESSION_ID": {
-      "description": "Your WhatsApp session ID. Must be prefixed with 'trashcore~' followed by the base64-encoded creds. Obtain this by running the bot locally and pairing your number first.",
-      "required": true
-    }
-  },
-  "formation": {
+"formation": {
     "worker": {
-      "quantity": 1,
-      "size": "eco"
+        "quantity": 1,
+        "size": "eco"
     }
-  },
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ],
-  "stack": "heroku-22"
 }
