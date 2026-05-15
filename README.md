@@ -1,84 +1,101 @@
-# RAVEN MD 🤖
+# 𝗥𝗔𝗩𝗘𝗡-𝙈𝘿
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HOLLA+THIS+IS+RAVEN-BOT;MULTI+DEVICE+WHATSAPP+BOT;MADE+TO+HELP+WHATSAPP+USERS;STAR+AND+FORK+THE+REPO" alt="Typing SVG" />
+  </a>
+</p>
+  
+<p align="center">
+
+[![cleo fleko](https://github.com/teccleo2-hub/RAVEN-MD](https://github.com/teccleo2-hub/RAVEN-MD)
+</p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAVEN+WHATSAPP+BOT" alt="">
+</p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-CLEO_FLEKO-blue.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/teccleo2-hub/RAVEN-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
+<a href="https://github.com/teccleo2-hub/RAVEN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Cleo fleko/RAVEN-MD?&style=social"></a>
+<a href="https://github.com/teccleo2-hub/RAVEN-MD/network/members"><img title="Fork" src="https://github.com/teccleo2-hub/RAVEN-MD?style=social"></a>
+<a href="https://github.com/teccleo2-hub/RAVEN-MD/watchers"><img title="Watching" src="https://github.com/teccleo2-hub/RAVEN-MDlabel=Watching&style=social"></a>
+</p>
+ 
+
+## ` Contact me`
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/151794313?v=4" width="120" style="border-radius:50%" />
-</p>
+
+<a href="https://api.whatsapp.com/send?phone=254758301051&text=Hello+Raven+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
+
+
+## DISCLAIMER
+- Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting.
+
+- Do not delete the credits given,  you can add yourself instead.
+
+## FEATURES
+This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
+
+Our AI features use random APIs to run, so sometimes they may be down.
+
+ SET-UP
+
+## ` Fork this repo`
+<p align="centre">
+<a href="https://github.com/teccleo2-hub/RAVEN-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-MD" width="160"></a>
+<p/>
 
 <p align="center">
-  <b>A powerful multi-device WhatsApp bot with a built-in web dashboard</b><br>
-  Session manager · Plugin system · Group tools · Media downloaders · AI features
+  <a href="https://3c79931f-9fd5-42fb-b976-d803959bb698-00-2nzcc2v91n8wk.worf.replit.dev" style="text-decoration: none; font-size: 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px 30px; border-radius: 50px; color: white; font-weight: bold; display: inline-block; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    🎵 Click Here to Listen 🎶
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-20+-brightgreen?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Baileys-Latest-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Platform-WhatsApp-25D366?style=flat-square&logo=whatsapp" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
-</p>
+<style>
+  a:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+  }
+</style>
+  
+  <!-- Pair Link -->
+  <p>
+    <a href="https://3000-iwlfxqevoy7765udna655-e4b61369.us1.manus.computer" 
+       target="_blank" 
+       rel="noopener noreferrer">
+      🔗 Click here to access Pair Code
+    </a>
+  </p>
+</div>  
+## ` Pair code`
+<p align="centre">
+<a href="https://3000-iwlfxqevoy7765udna655-e4b61369.us1.manus.computer"></a>
+<p/>
+<a href="https://3000-iwlfxqevoy7765udna655-e4b61369.us1.manus.computer">Click here to access Pair Code</a>            
+## Deploy to Heroku
 
----
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teccleo2-hub/RAVEN-MD)
+ </p>
+<td align="center"><a href="https://replit.com/github.com/teccleo2-hubb/RAVEN-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=green"/></a></td>
+    </tr>
+    <tr> 
 
-## 🚀 Deploy to Heroku (One Click)
+    
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teccleo2-hub1/RAVEN-MD)
+- Fill in the required variables into your hosting site for bot to work.
+ </h2>
+     
 
-**Steps after deploying:**
-1. Fill in `OWNER_NUMBER` and `PREFIX` (required) — leave `SESSION_ID` blank for now
-2. Click **Deploy App** and wait for the build to finish
-3. Click **View App** → the web dashboard opens
-4. Enter your WhatsApp number → click **Get Pairing Code**
-5. Open WhatsApp → **Linked Devices** → **Link with phone number** → enter the code
-6. Once connected, copy the generated **Session ID** from the dashboard
-7. Go to Heroku → **Settings** → **Config Vars** → paste it as `SESSION_ID`
-8. Restart the dyno — bot reconnects instantly every time ⚡
+    
+ 
 
----
 
-## ✨ Features
 
-| Category | Details |
-|----------|---------|
-| 🌐 Web Dashboard | Pair numbers, manage session IDs, upload/toggle/delete plugins — all from the browser |
-| 🔑 Session Manager | Generates a permanent `SESSION_ID` after pairing — redeploy anywhere without re-pairing |
-| 🧩 Plugin System | Drop `.js` files into `plugins/` or upload via dashboard — hot-reloaded automatically |
-| 📥 Downloaders | TikTok, YouTube, Facebook, Pinterest, audio & video |
-| 🛡️ AntiDelete | Logs all deleted messages to the bot's own DM |
-| 👥 Group Tools | Promote, demote, kick, tagall, hidetag, antilink, antidemote, antipromote |
-| 🤖 AI Tools | Copilot, LLaMA, Venice AI, OCR |
-| 🔄 Auto-Reconnect | Automatic reconnect on disconnection |
-| 🗄️ SQLite Database | Lightweight persistent storage for settings and message logs |
-
----
-
-## ⚙️ Environment Variables
-
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `OWNER_NUMBER` | ✅ Yes | Your WhatsApp number with country code, no `+` or spaces. e.g. `254712345678` |
-| `PREFIX` | ✅ Yes | Command prefix. e.g. `.` `!` `#` |
-| `SESSION_ID` | ❌ No | Session string starting with `trashcore~`. Set after first pairing. |
-| `BOT_NAME` | ❌ No | Bot display name. Default: `RAVEN MD` |
-
----
-
-## 🖥️ Web Dashboard
-
-After deploying, open the app URL to access the dashboard:
-
-- **📱 Pair Number** — Enter your number and get a pairing code instantly
-- **🔑 Drop Session ID** — Paste an existing session to reconnect without re-pairing
-- **✅ Connected** — Copy your permanent Session ID with one click
-- **🧩 Plugin Manager** — Upload, enable/disable, or delete plugins from the browser
-
----
-
-## 📦 Local Installation
-
-```bash
-git clone https://github.com/teccleo2-hub1/RAVEN-MD
-cd RAVEN-MD
-npm install
-node index.js
 
 
 ## License
