@@ -1,5 +1,5 @@
 build:
-  languages:
-    - node-js
+  docker:
+    web: Dockerfile
 run:
-  worker: node index.js
+  web: node index.js
