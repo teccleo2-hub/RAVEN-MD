@@ -1,8 +1,10 @@
 node_modules/
 session/
-database/trashbot.db
 store/
-.env
-*.log
-.cache/
 library/
+database/trashbot.db
+database/antidelete.json
+cache/
+*.log
+.env
+*.bak
